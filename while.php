@@ -14,4 +14,4 @@ endwhile;
 echo "<br><br>";
 /* contoh 3 */
 $i = 1;
-while ($i <= 6) {echo "<h$i>Heading $i</h$i>";$i++; }?
+while ($i <= 6) {echo "<h$i>Heading $i</h$i>";$i++; }?>

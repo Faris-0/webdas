@@ -11,4 +11,4 @@ case 'Sat' : $hari = "Sabtu"; break;
 default : $hari = "Kiamat";
 }
 echo "Hari ini hari <b>$hari</b>";
-?
+?>
