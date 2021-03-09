@@ -23,4 +23,4 @@ $i++;
 } echo "<br><br>";
 /* contoh 4 */
 for ($i = 1; $i <= 10; print "$i ", $i++);
-?>
+?

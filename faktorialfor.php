@@ -25,4 +25,4 @@ for ($i=1; $i <= $pertama ; $i++) {
 <p><input type="submit" name="smdngn" value="="></p>
 </form>
 </body>
-</html>
+</html

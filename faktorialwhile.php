@@ -27,4 +27,4 @@ while ($i <= $pertama) {
 <p><input type="submit" name="smdngn" value="="></p>
 </form>
 </body>
-</html>
+</html
